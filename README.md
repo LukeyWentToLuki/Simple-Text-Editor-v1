@@ -1,15 +1,10 @@
-# Simple-Text-Editor-v1
+# [NEW UPDATE, CHECK UPDATE.MD FOR MORE INFO] Simple-Text-Editor-v2
 This state-of-the-art text editor is so easy to set up! Just a tiny installation process.
 
 
 # Installation
-Head to the Microsoft Store and download the lastest version of python that you can see.
-Download the python file I made and install VS Code. Put the code in VS Code and run it.
+Download the EXE. Make sure you have python installed.
 
-
-# Installation Method 2
-First, head to python's offical website and download python.
-Then do the rest of the steps.
 
 # How To Create Your Own Text Editor
 Use the following code to use as a base:
